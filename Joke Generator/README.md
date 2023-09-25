@@ -1,2 +1,2 @@
-This is an extension which generates a new Joke everytime you hit the extension button or logo.<br />
+This is an extension that generates a new Joke every time you hit the extension button or logo.<br />
 *The API used is*: https://icanhazdadjoke.com/api
